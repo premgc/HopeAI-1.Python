@@ -1,0 +1,24 @@
+A company works with number of employees, all the works are dependents on the employees. Even
+if one of the employees resign the job immediately the assigned the work with be not finished of the 
+time, so delivery of the project to the clients will be delayed. Company planned to make solution
+for this, they want to know which employee may resign this month or next. If the know previously,
+they can arrange alternative to avoid such problem. As an AI Engineer you must give Solution to this:
+
+1) How will you achieve this in AI/?
+Comes under Machine Learning - under supervised Learning.
+
+
+2) Find out the 3 stage of problem identification
+   Machine Learning - Supervised Learning - Classification
+
+3)Name of the Project: 
+	Employee Attrition
+
+4)Create the dummy Dataset:
+Those employee who intend to resign, HR will conduct the 1-1 with that person and capture the employee information
+as show below.
+Employee_ID , Employee_Dt_of_Join, Emloyee_leaving_date, Notice_period,	Reason_of_Leaving
+2003	,	30-Jan-2006		08-July-2025	, 1 month , 	Got better opportunity
+5089	, 	15-July-2024		15-July-2025	  1 month	MS in US for Higher Studies
+
+
