@@ -20,6 +20,6 @@ as show below.
 Employee_ID , Employee_Dt_of_Join, Emloyee_leaving_date, Notice_period,	Reason_of_Leaving, 	col_prediction
 2003	,	30-Jan-2006		08-July-2025	, 1 month , 	Got better opportunity, 	1
 5089	, 	15-July-2024		15-July-2025	  1 month	MS in US for Higher Studies, 	1
-6085   		03-Jan-2025										0
+6085   		03-Jan-2025		15-July-2025	  1 month	personall reason		1					1
 
 
