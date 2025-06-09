@@ -17,8 +17,9 @@ Comes under Machine Learning - under supervised Learning.
 4)Create the dummy Dataset:
 Those employee who intend to resign, HR will conduct the 1-1 with that person and capture the employee information
 as show below.
-Employee_ID , Employee_Dt_of_Join, Emloyee_leaving_date, Notice_period,	Reason_of_Leaving
-2003	,	30-Jan-2006		08-July-2025	, 1 month , 	Got better opportunity
-5089	, 	15-July-2024		15-July-2025	  1 month	MS in US for Higher Studies
+Employee_ID , Employee_Dt_of_Join, Emloyee_leaving_date, Notice_period,	Reason_of_Leaving, 	col_prediction
+2003	,	30-Jan-2006		08-July-2025	, 1 month , 	Got better opportunity, 	1
+5089	, 	15-July-2024		15-July-2025	  1 month	MS in US for Higher Studies, 	1
+6085   		03-Jan-2025										0
 
 
